@@ -1,1 +1,1 @@
-utility function for softwares
+utility function for softwares of version 2
